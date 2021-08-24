@@ -1,5 +1,5 @@
 # Interview Adventures
-Some of my serious Interview experiences in Germany.
+Some of my serious Interview experiences in Germany for various Data Science roles.
 - `29-10-2020` Internship Machine Learning - AI Solutions (Linde Praxis)
 - `13-11-2020` Intern in Analytics and Digital Platform (Allianz Global Investors)
 - `26-02-2021` Research Associate with focus on AI explainability (DZNE)
